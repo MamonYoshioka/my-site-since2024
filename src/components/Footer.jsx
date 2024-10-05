@@ -1,4 +1,4 @@
-import './css/Footer.css';  // 必要に応じてCSSファイルを作成してインポート
+import './css/Footer.css';
 
 const Footer = () => {
   return (
