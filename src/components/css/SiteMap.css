@@ -1,0 +1,31 @@
+.sitemap {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  
+  .sitemap h2 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .sitemap-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sitemap-list li {
+    margin: 10px 0;
+  }
+  
+  .sitemap-list li a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 18px;
+  }
+  
+  .sitemap-list li a:hover {
+    text-decoration: underline;
+  }
+  
