@@ -4,7 +4,7 @@ import bgImage from "./images/comming_soon.jpg"
 
 
 function Top() {  
-  const greet = 'Hello World';
+  const greet = 'Hello Everyone!';
   return (
     <>
       <div className="top">

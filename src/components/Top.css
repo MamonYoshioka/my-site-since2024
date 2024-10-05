@@ -1,13 +1,16 @@
 *{
-  background-color: #fff;
   margin: 0;
   padding: 0;
 }
+body{
+  background-color: #85AFE1;
+}
 
 h1 {
-  color: #000;
+  color: brown;
   text-align: center;
-  border: brown 1px solid;
+  border: brown 5px solid;
+  background-color: #fff;
 }
 
 .top img{
