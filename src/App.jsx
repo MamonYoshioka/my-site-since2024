@@ -1,11 +1,14 @@
 import Top from './components/Top'
-// import Header from './components/Header';
+import About from './components/About'
+import Footer from './components/Footer'
+
 
 const App = () => {
   return (
     <>
-      {/* <Header /> */}
       <Top />
+      <About/>
+      <Footer />
 
     </>
   )

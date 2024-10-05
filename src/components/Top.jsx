@@ -1,6 +1,6 @@
 
-import './Top.css'
-import bgImage from "./images/comming_soon.jpg"
+import './css/Top.css'
+// import bgImage from "./images/comming_soon.jpg"
 
 
 function Top() {  
@@ -9,7 +9,7 @@ function Top() {
     <>
       <div className="top">
           <h1>{greet}</h1>
-          <img src={bgImage} alt="comming soon image" />
+          {/* <img src={bgImage} alt="comming soon image" /> */}
       </div>
     </>
   )
